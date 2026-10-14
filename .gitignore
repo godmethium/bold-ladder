@@ -1,0 +1,12 @@
+/data
+/work
+/models
+/output/*
+!/output/.gitkeep
+/logs/*
+!/logs/.gitkeep
+__pycache__/
+*.pyc
+catboost_info/
+.ipynb_checkpoints/
+.DS_Store
